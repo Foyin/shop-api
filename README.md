@@ -54,5 +54,8 @@ speficy by adding title of product after ?
 
 ex: ```http://localhost:3000/api/products/cart?chips```
 
+To remove inventory from products list and end transaction:
+
+```http://localhost:3000//api/products/cart/complete```
 
 
