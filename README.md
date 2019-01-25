@@ -1,4 +1,4 @@
-#### Snack Shop Backend
+# Snack Shop Backend
 
 App runs using node js version 10.15.0
 
