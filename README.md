@@ -27,6 +27,6 @@ speficy by adding title of product after ? ex: ```http://localhost:3000/api/prod
 - To add to cart: ```http://localhost:3000//api/products/cart/add```
 
 speficy by adding title of product after ? ex: ```http://localhost:3000/api/products/cart/add?chips```
-- To remove items in cart from inventory and end transaction: ```http://localhost:3000//api/products/cart/complete```
+- To remove items in cart from inventory and end transaction: ```http://localhost:3000/api/products/cart/complete```
 
 
