@@ -17,7 +17,7 @@ To run 'secure' version that uses a https connection with self-signed certificat
 * index-https.js - 'secure' version that uses a https connction with self-signed certificate
 
 
-### Usage
+## Usage
 - To test connection: ```http://localhost:3000/api/ping```
 - To show all products: ```http://localhost:3000/api/products```
 - To show all products in stock (inventory greater than zero): ```http://localhost:3000/api/products/available```
