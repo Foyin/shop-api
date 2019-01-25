@@ -2,7 +2,7 @@
 
 App runs using node js version 10.15.0
 
-to run use
+To run use
 ``` node index.js ```
 
 * productsList.json - Original List of products with all informaion
