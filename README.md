@@ -9,7 +9,7 @@ loadJson.py - program used to parse productsList.json
 index.js - main shop api app
 
 
-
+```
 
 To test connection:
 
@@ -43,6 +43,6 @@ http://localhost:3000//api/products/cart/add
 speficy by adding title of product after ? 
 
 ex: http://localhost:3000/api/products/cart?chips
-
+```
 
 
