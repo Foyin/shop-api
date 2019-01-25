@@ -32,7 +32,7 @@ To show all products in stock (inventory greater than zero):
 ```http://localhost:3000/api/products/available```
 
 
-To show all products in stock (inventory greater than zero):
+To purchase product:
 
 ```http://localhost:3000/api/products/purchase```
 
@@ -54,7 +54,7 @@ speficy by adding title of product after ?
 
 ex: ```http://localhost:3000/api/products/cart?chips```
 
-To remove inventory from products list and end transaction:
+To remove items in cart from inventory and end transaction:
 
 ```http://localhost:3000//api/products/cart/complete```
 
