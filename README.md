@@ -23,8 +23,8 @@ To run 'secure' version that uses a https connection with self-signed certificat
 - To purchase product: ```http://localhost:3000/api/products/purchase```
 
 speficy by adding title of product after ? ex: ```http://localhost:3000/api/products/purchase?chips```
-- To view cart: ```http://localhost:3000//api/products/cart```
-- To add to cart: ```http://localhost:3000//api/products/cart/add```
+- To view cart: ```http://localhost:3000/api/products/cart```
+- To add to cart: ```http://localhost:3000/api/products/cart/add```
 
 speficy by adding title of product after ? ex: ```http://localhost:3000/api/products/cart/add?chips```
 - To remove items in cart from inventory and end transaction: ```http://localhost:3000/api/products/cart/complete```
