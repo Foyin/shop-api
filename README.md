@@ -8,6 +8,8 @@ To run use
 To run 'secure' version that uses a https connction with self-signed certificate use
 ``` node index-https.js ```
 
+Demo [Here](https://shopifycarttest.herokuapp.com/api/products)
+
 * productsList.json - Original List of products with all informaion
 * products.json - parsed json version of productsList.json
 * loadJson.py - program used to parse productsList.json
