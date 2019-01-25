@@ -4,6 +4,8 @@ App runs using node js version 10.15.0
 
 To run use
 ``` node index.js ```
+To run 'secure' version that uses a https connction with self-signed certificate use
+``` node index-https.js ```
 
 * productsList.json - Original List of products with all informaion
 * products.json - parsed json version of productsList.json
