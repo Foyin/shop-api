@@ -9,40 +9,42 @@ loadJson.py - program used to parse productsList.json
 index.js - main shop api app
 
 
-```
-
 To test connection:
 
-http://localhost:3000/api/ping
+```http://localhost:3000/api/ping```
+
 
 To show all products:
 
-http://localhost:3000/api/products
+```http://localhost:3000/api/products```
+
 
 To show all products in stock (inventory greater than zero):
 
-http://localhost:3000/api/products/available
+```http://localhost:3000/api/products/available```
+
 
 To show all products in stock (inventory greater than zero):
 
-http://localhost:3000/api/products/purchase
+```http://localhost:3000/api/products/purchase```
 
 speficy by adding title of product after ? 
 
-ex: http://localhost:3000/api/products/purchase?chips
+ex: ```http://localhost:3000/api/products/purchase?chips```
+
 
 To view cart:
 
-http://localhost:3000//api/products/cart
+```http://localhost:3000//api/products/cart```
+
 
 To add to cart:
 
-http://localhost:3000//api/products/cart/add
-
+```http://localhost:3000//api/products/cart/add```
 
 speficy by adding title of product after ? 
 
-ex: http://localhost:3000/api/products/cart?chips
-```
+ex: ```http://localhost:3000/api/products/cart?chips```
+
 
 
