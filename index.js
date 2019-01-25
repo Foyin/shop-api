@@ -191,7 +191,7 @@ server.listen(port, () => {
 	console.log('http://localhost:3000/api/products');
 	console.log('http://localhost:3000/api/products/available');
 	console.log('http://localhost:3000/api/products/purchase');
-	console.log('http://localhost:3000//api/products/cart');
-	console.log('http://localhost:3000//api/products/cart/add');
+	console.log('http://localhost:3000/api/products/cart');
+	console.log('http://localhost:3000/api/products/cart/add');
 });
 
