@@ -1,26 +1,31 @@
 {
   "name": "shop-api",
   "version": "1.0.0",
-  "description": "backend of shop using rest api",
+  "description": "snack shop backend rest api",
   "main": "index.js",
+  "dependencies": {
+    "express-session": "^1.15.6",
+    "serve-favicon": "2.5.0",
+    "url": "0.11.0",
+    "morgan": "1.9.1",
+    "cookie-parser": "",
+    "body-parser": "",
+    "path": "",
+    "http": "",
+    "express": "4.16.4"
+  },
+  "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Foyin/shop-api.git"
   },
-  "keywords": [
-    "shopify"
-  ],
   "author": "Foyin Ogbara",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Foyin/shop-api/issues"
   },
-  "homepage": "https://github.com/Foyin/shop-api#readme",
-  "dependencies": {
-    "express-session": "^1.15.6"
-  }
+  "homepage": "https://github.com/Foyin/shop-api#readme"
 }
