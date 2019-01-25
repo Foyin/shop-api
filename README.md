@@ -17,45 +17,14 @@ To run 'secure' version that uses a https connection with self-signed certificat
 * index-https.js - 'secure' version that uses a https connction with self-signed certificate
 
 
-To test connection:
-
-```http://localhost:3000/api/ping```
-
-
-To show all products:
-
-```http://localhost:3000/api/products```
-
-
-To show all products in stock (inventory greater than zero):
-
-```http://localhost:3000/api/products/available```
-
-
-To purchase product:
-
-```http://localhost:3000/api/products/purchase```
-
-speficy by adding title of product after ? 
-
-ex: ```http://localhost:3000/api/products/purchase?chips```
-
-
-To view cart:
-
-```http://localhost:3000//api/products/cart```
-
-
-To add to cart:
-
-```http://localhost:3000//api/products/cart/add```
-
-speficy by adding title of product after ? 
-
-ex: ```http://localhost:3000/api/products/cart?chips```
-
-To remove items in cart from inventory and end transaction:
-
-```http://localhost:3000//api/products/cart/complete```
+- To test connection: ```http://localhost:3000/api/ping```
+- To show all products: ```http://localhost:3000/api/products```
+- To show all products in stock (inventory greater than zero): ```http://localhost:3000/api/products/available```
+- To purchase product: ```http://localhost:3000/api/products/purchase```
+speficy by adding title of product after ? ex: ```http://localhost:3000/api/products/purchase?chips```
+- To view cart: ```http://localhost:3000//api/products/cart```
+- To add to cart: ```http://localhost:3000//api/products/cart/add```
+speficy by adding title of product after ? ex: ```http://localhost:3000/api/products/cart/add?chips```
+- To remove items in cart from inventory and end transaction: ```http://localhost:3000//api/products/cart/complete```
 
 
