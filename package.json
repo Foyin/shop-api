@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Foyin/shop-api/issues"
   },
-  "homepage": "https://github.com/Foyin/shop-api#readme"
+  "homepage": "https://github.com/Foyin/shop-api#readme",
+  "dependencies": {
+    "express-session": "^1.15.6"
+  }
 }
