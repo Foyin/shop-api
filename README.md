@@ -3,10 +3,10 @@
 App runs using node js version 10.15.0
 
 
-productsList.json - Original List of products with all informaion
-products.json - parsed json version of productsList.json
-loadJson.py - program used to parse productsList.json
-index.js - main shop api app
+* productsList.json - Original List of products with all informaion
+* products.json - parsed json version of productsList.json
+* loadJson.py - program used to parse productsList.json
+* index.js - main shop api app
 
 
 To test connection:
