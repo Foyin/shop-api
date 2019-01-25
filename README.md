@@ -1,7 +1,9 @@
-
+#### Snack Shop Backend
 
 App runs using node js version 10.15.0
 
+to run use
+``` node index.js ```
 
 * productsList.json - Original List of products with all informaion
 * products.json - parsed json version of productsList.json
