@@ -1,0 +1,23 @@
+{
+  "name": "shop-api",
+  "version": "1.0.0",
+  "description": "backend of shop using rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foyin/shop-api.git"
+  },
+  "keywords": [
+    "shopify"
+  ],
+  "author": "Foyin Ogbara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foyin/shop-api/issues"
+  },
+  "homepage": "https://github.com/Foyin/shop-api#readme"
+}
