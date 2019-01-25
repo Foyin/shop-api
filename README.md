@@ -14,7 +14,7 @@ To run 'secure' version that uses a https connection with self-signed certificat
 * products.json - parsed json version of productsList.json
 * loadJson.py - program used to parse productsList.json
 * index.js - main shop api app
-* index-https.js - 'secure' version that uses a https connction with self-signed certificate
+* index-https.js - 'secure' version that uses a https connection with self-signed certificate
 
 
 ## Usage
