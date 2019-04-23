@@ -2,6 +2,8 @@
 
 App runs using node js version 10.15.0
 
+Download JSON formatter for cleaner looking display
+
 Demo [Here](https://shopifycarttest.herokuapp.com/api/products)
 
 To run use
